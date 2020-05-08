@@ -1,4 +1,4 @@
 #include<iostream>
 void main{
-	int b;
+	int b=100000000000;
 }
